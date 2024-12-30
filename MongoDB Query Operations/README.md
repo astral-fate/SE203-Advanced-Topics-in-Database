@@ -1,5 +1,4 @@
 
-I'll help create comprehensive study notes for this MongoDB lecture. Let me organize it in a clear, structured format.
 
 # MongoDB Lecture Notes: Introduction to Queries and Database Operations
 
