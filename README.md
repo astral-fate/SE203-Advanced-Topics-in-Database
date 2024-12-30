@@ -8,3 +8,10 @@
 | Chapter 3: Advanced MongoDB Topics - Aggregation Framework | This chapter delves into MongoDB's powerful aggregation framework. It covers basic aggregation operations ($avg, $sum, $min, $max), group operations with $group and $id, sorting and filtering techniques, join operations using $lookup, and projection operations. The chapter provides in-depth coverage of data analysis and transformation capabilities in MongoDB. |
 | Chapter 4: MongoDB Database Structure and Operations | This chapter examines MongoDB's database structure and CRUD operations in detail. It covers basic database operations including insert, update, and delete operations, explores advanced query operations with logical and comparison operators, and discusses database schema design with a focus on the company database structure. The chapter includes practical examples using a company database scenario. |
 | Chapter 5: PyMongo Integration and Programming | This final chapter bridges MongoDB with Python through PyMongo. It covers connection setup, database operations, collection management, document operations, querying, index operations, and aggregation operations using Python. The chapter provides practical examples of implementing MongoDB operations in Python applications, complete with error handling and best practices. |
+
+
+## Helpful resourcses for interactive learning 
+
+1. https://learn.mongodb.com/learning-paths/mongodb-python-developer-path
+
+2. https://learn.mongodb.com/courses/pymongoarrow
