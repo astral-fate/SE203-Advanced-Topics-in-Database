@@ -1,5 +1,4 @@
 
-I'll reformat my previous study notes to match the style of the provided document, with clear sections, detailed explanations, and thorough examples.
 
 # MongoDB Study Guide
 
