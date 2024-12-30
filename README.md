@@ -1,5 +1,5 @@
 
-# MongoDB Course Structure
+# SE203 Advanced Topics in Database Course Structure  
 
 | Chapter (File) | Main Topics Covered |
 |----------------|-------------------|
