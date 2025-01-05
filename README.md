@@ -12,7 +12,8 @@
 
 ## Helpful resourcses for interactive learning 
 
-1. https://learn.mongodb.com/learning-paths/mongodb-python-developer-path
+1. https://learn.mongodb.com/learn/learning-path/introduction-to-mongodb
+2. https://learn.mongodb.com/learning-paths/mongodb-python-developer-path
 
-2. https://learn.mongodb.com/courses/pymongoarrow
-3. https://training.talkpython.fm/courses/details/mongodb-python-quickstart-mongoengine
+3. https://learn.mongodb.com/courses/pymongoarrow
+4. https://training.talkpython.fm/courses/details/mongodb-python-quickstart-mongoengine
