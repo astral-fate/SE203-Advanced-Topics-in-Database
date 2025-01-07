@@ -99,6 +99,89 @@ db.sales.updateMany(
 )
 ```
 
+
+
+<details>
+<summary> Update Many Quiz</summary>
+Three computer science classes, with the class_ids of 377, 259, and 350, have earned 100 extra credit points by competing in a hackathon. You need to update the database so that all students who are in these classes receive extra credit points. Note that you will use the grades collection, which is in the sample_training database.
+
+Which of the following queries will accomplish this goal? (Select one).
+
+
+A.
+```
+db.grades.insertMany(
+  {
+    class_id: {
+$in: [ 377, 259, 350 ]
+    },
+   },
+  {
+    $push: {
+      scores: [ 
+{ type : 'extra credit', score: 100 }
+]
+    }
+  }
+)
+```
+B.
+```
+db.grades.updateMany(
+  {
+    class_id: {
+$in: [ 377, 259, 350 ]
+    },
+   },
+  {
+    $push: {
+      scores: [ 
+{ type : 'extra credit', score: 100 }
+]
+    }
+  }
+)
+```
+
+C.
+```
+db.grades.updateOne(
+  {
+    class_id: {
+$in: [ 377, 259, 350 ]
+    },
+   },
+  {
+    $push: {
+      scores: [ 
+{ type : 'extra credit', score: 100 }
+]
+    }
+  }
+)
+```
+
+D.
+```
+db.grades.findAndModify(
+  {
+    class_id: {
+$in: [ 377, 259, 350]
+    },
+   },
+  {
+    $push: {
+      scores: [ 
+{ type : 'extra credit', score: 100 }
+]
+    }
+  }
+)
+```
+option (b)
+
+</details>
+
 ## Delete Operations
 The lecture shows collection removal using drop():
 ```javascript
