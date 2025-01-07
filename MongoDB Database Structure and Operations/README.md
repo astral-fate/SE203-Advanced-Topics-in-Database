@@ -191,7 +191,7 @@ db.employee.drop()
 
 <details>
 <summary> Optional delete opperation on a collection</summary>
-## Deleting Documents in MongoDB
+Deleting Documents in MongoDB
 To delete documents, use the deleteOne() or deleteMany() methods. Both methods accept a filter document and an options object.
 
 Delete One Document
