@@ -139,6 +139,8 @@ db.employee.aggregate([
 ```
 
 ## Group Operations
+![image](https://github.com/user-attachments/assets/a77f8cf8-e937-4ba1-8d6a-520131775669)
+
 
 ### $group - Document Grouping
 The $group stage is MongoDB's way of organizing related data together. Think of it as sorting items into different boxes based on shared characteristics. Key features include:
