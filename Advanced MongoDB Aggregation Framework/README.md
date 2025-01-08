@@ -351,6 +351,8 @@ db.employee.aggregate([
 ```
 
 ## Projection Operations
+![image](https://github.com/user-attachments/assets/6f765272-07e2-4033-8611-04ff68e91544)
+
 
 ### $project - Output Field Control
 The $project stage is like a filter that shapes your final output. It allows you to:
