@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a39a"
+  },
+  "pname": "ProductX",
+  "pnumber": 1,
+  "plocation": "Bellaire",
+  "dnum": 5
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a39b"
+  },
+  "pname": "ProductY",
+  "pnumber": 2,
+  "plocation": "Sugarland",
+  "dnum": 5
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a39c"
+  },
+  "pname": "ProductZ",
+  "pnumber": 3,
+  "plocation": "Houston",
+  "dnum": 5
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a39d"
+  },
+  "pname": "Computerization",
+  "pnumber": 10,
+  "plocation": "Stafford",
+  "dnum": 4
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a39e"
+  },
+  "pname": "Reorganization",
+  "pnumber": 20,
+  "plocation": "Houston",
+  "dnum": 1
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a39f"
+  },
+  "pname": "Newbenefits",
+  "pnumber": 30,
+  "plocation": "Stafford",
+  "dnum": 4
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a3a0"
+  },
+  "pname": "OperatingSystems",
+  "pnumber": 61,
+  "plocation": "Jacksonville",
+  "dnum": 6
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a3a1"
+  },
+  "pname": "DatabaseSystems",
+  "pnumber": 62,
+  "plocation": "Birmingham",
+  "dnum": 6
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a3a2"
+  },
+  "pname": "Middleware",
+  "pnumber": 63,
+  "plocation": "Jackson",
+  "dnum": 6
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a3a3"
+  },
+  "pname": "InkjetPrinters",
+  "pnumber": 91,
+  "plocation": "Phoenix",
+  "dnum": 7
+},{
+  "_id": {
+    "$oid": "637749ca17c55c88f849a3a4"
+  },
+  "pname": "LaserPrinters",
+  "pnumber": 92,
+  "plocation": "LasVegas",
+  "dnum": 7
+}]

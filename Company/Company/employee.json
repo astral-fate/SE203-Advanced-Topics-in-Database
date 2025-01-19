@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "63774778a9b55f373f707adf"
+  },
+  "fname": "Bob",
+  "minit": "B",
+  "lname": "Bender",
+  "ssn": "666666600",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-53913600000"
+    }
+  },
+  "address": "8794 Garfield, Chicago, IL",
+  "gender": "M",
+  "salary": 96000,
+  "superssn": null,
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae0"
+  },
+  "fname": "Kim",
+  "minit": "C",
+  "lname": "Grace",
+  "ssn": "333333300",
+  "bdate": {
+    "$date": "1970-10-23T00:00:00Z"
+  },
+  "address": "6677 Mills Ave, Sacramento, CA",
+  "gender": "F",
+  "salary": 79000,
+  "superssn": null,
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae1"
+  },
+  "fname": "James",
+  "minit": "E",
+  "lname": "Borg",
+  "ssn": "888665555",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-1329955200000"
+    }
+  },
+  "address": "450 Stone, Houston, TX",
+  "gender": "M",
+  "salary": 55000,
+  "superssn": null,
+  "dno": 1
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae2"
+  },
+  "fname": "Alex",
+  "minit": "D",
+  "lname": "Freed",
+  "ssn": "444444400",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-606873600000"
+    }
+  },
+  "address": "4333 Pillsbury, Milwaukee, WI",
+  "gender": "M",
+  "salary": 89000,
+  "superssn": null,
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae3"
+  },
+  "fname": "Evan",
+  "minit": "E",
+  "lname": "Wallis",
+  "ssn": "222222200",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-377395200000"
+    }
+  },
+  "address": "134 Pelham, Milwaukee, WI",
+  "gender": "M",
+  "salary": 92000,
+  "superssn": null,
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae4"
+  },
+  "fname": "Jared",
+  "minit": "D",
+  "lname": "James",
+  "ssn": "111111100",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-101865600000"
+    }
+  },
+  "address": "123 Peachtree, Atlanta, GA",
+  "gender": "M",
+  "salary": 85000,
+  "superssn": null,
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae5"
+  },
+  "fname": "John",
+  "minit": "C",
+  "lname": "James",
+  "ssn": "555555500",
+  "bdate": {
+    "$date": "1975-06-30T00:00:00Z"
+  },
+  "address": "7676 Bloomington, Sacramento, CA",
+  "gender": "M",
+  "salary": 81000,
+  "superssn": null,
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae6"
+  },
+  "fname": "Andy",
+  "minit": "C",
+  "lname": "Vile",
+  "ssn": "222222202",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-805680000000"
+    }
+  },
+  "address": "1967 Jordan, Milwaukee, WI",
+  "gender": "M",
+  "salary": 53000,
+  "superssn": "222222200",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae7"
+  },
+  "fname": "Brad",
+  "minit": "C",
+  "lname": "Knight",
+  "ssn": "111111103",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-59443200000"
+    }
+  },
+  "address": "176 Main St., Atlanta, GA",
+  "gender": "M",
+  "salary": 44000,
+  "superssn": "111111100",
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae8"
+  },
+  "fname": "Josh",
+  "minit": "U",
+  "lname": "Zell",
+  "ssn": "222222201",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-492739200000"
+    }
+  },
+  "address": "266 McGrady, Milwaukee, WI",
+  "gender": "M",
+  "salary": 56000,
+  "superssn": "222222200",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707ae9"
+  },
+  "fname": "Justin",
+  "minit": "n",
+  "lname": "Mark",
+  "ssn": "111111102",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-125280000000"
+    }
+  },
+  "address": "2342 May, Atlanta, GA",
+  "gender": "M",
+  "salary": 40000,
+  "superssn": "111111100",
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707aea"
+  },
+  "fname": "Jon",
+  "minit": "C",
+  "lname": "Jones",
+  "ssn": "111111101",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-67305600000"
+    }
+  },
+  "address": "111 Allgood, Atlanta, GA",
+  "gender": "M",
+  "salary": 45000,
+  "superssn": "111111100",
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707aeb"
+  },
+  "fname": "Ahmad",
+  "minit": "V",
+  "lname": "Jabbar",
+  "ssn": "987987987",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-339638400000"
+    }
+  },
+  "address": "980 Dallas, Houston, TX",
+  "gender": "M",
+  "salary": 25000,
+  "superssn": "987654321",
+  "dno": 4
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707aec"
+  },
+  "fname": "Joyce",
+  "minit": "A",
+  "lname": "English",
+  "ssn": "453453453",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-234230400000"
+    }
+  },
+  "address": "5631 Rice, Houston, TX",
+  "gender": "F",
+  "salary": 25000,
+  "superssn": "333445555",
+  "dno": 5
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707aed"
+  },
+  "fname": "Ramesh",
+  "minit": "K",
+  "lname": "Narayan",
+  "ssn": "666884444",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-545788800000"
+    }
+  },
+  "address": "971 Fire Oak, Humble, TX",
+  "gender": "M",
+  "salary": 38000,
+  "superssn": "333445555",
+  "dno": 5
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707aee"
+  },
+  "fname": "Alicia",
+  "minit": "J",
+  "lname": "Zelaya",
+  "ssn": "999887777",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-361497600000"
+    }
+  },
+  "address": "3321 Castle, Spring, TX",
+  "gender": "F",
+  "salary": 25000,
+  "superssn": "987654321",
+  "dno": 4
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707aef"
+  },
+  "fname": "John",
+  "minit": "B",
+  "lname": "Smith",
+  "ssn": "123456789",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-472694400000"
+    }
+  },
+  "address": "731 Fondren, Houston, TX",
+  "gender": "M",
+  "salary": 30000,
+  "superssn": "333445555",
+  "dno": 5
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af0"
+  },
+  "fname": "Jennifer",
+  "minit": "S",
+  "lname": "Wallace",
+  "ssn": "987654321",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-1216080000000"
+    }
+  },
+  "address": "291 Berry, Bellaire, TX",
+  "gender": "F",
+  "salary": 43000,
+  "superssn": "888665555",
+  "dno": 4
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af1"
+  },
+  "fname": "Franklin",
+  "minit": "T",
+  "lname": "Wong",
+  "ssn": "333445555",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-759456000000"
+    }
+  },
+  "address": "638 Voss, Houston, TX",
+  "gender": "M",
+  "salary": 40000,
+  "superssn": "888665555",
+  "dno": 5
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af2"
+  },
+  "fname": "Tom",
+  "minit": "G",
+  "lname": "Brand",
+  "ssn": "222222203",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-96076800000"
+    }
+  },
+  "address": "112 Third St, Milwaukee, WI",
+  "gender": "M",
+  "salary": 62500,
+  "superssn": "222222200",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af3"
+  },
+  "fname": "Jenny",
+  "minit": "F",
+  "lname": "Vos",
+  "ssn": "222222204",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-67564800000"
+    }
+  },
+  "address": "263 Mayberry, Milwaukee, WI",
+  "gender": "F",
+  "salary": 61000,
+  "superssn": "222222201",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af4"
+  },
+  "fname": "Chris",
+  "minit": "A",
+  "lname": "Carter",
+  "ssn": "222222205",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-308707200000"
+    }
+  },
+  "address": "565 Jordan, Milwaukee, WI",
+  "gender": "F",
+  "salary": 43000,
+  "superssn": "222222201",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af5"
+  },
+  "fname": "Jeff",
+  "minit": "H",
+  "lname": "Chase",
+  "ssn": "333333301",
+  "bdate": {
+    "$date": "1970-01-07T00:00:00Z"
+  },
+  "address": "145 Bradbury, Sacramento, CA",
+  "gender": "M",
+  "salary": 44000,
+  "superssn": "333333300",
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af6"
+  },
+  "fname": "Bonnie",
+  "minit": "S",
+  "lname": "Bays",
+  "ssn": "444444401",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-427161600000"
+    }
+  },
+  "address": "111 Hollow, Milwaukee, WI",
+  "gender": "F",
+  "salary": 70000,
+  "superssn": "444444400",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af7"
+  },
+  "fname": "Alec",
+  "minit": "C",
+  "lname": "Best",
+  "ssn": "444444402",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-111715200000"
+    }
+  },
+  "address": "233 Solid, Milwaukee, WI",
+  "gender": "M",
+  "salary": 60000,
+  "superssn": "444444400",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af8"
+  },
+  "fname": "Sam",
+  "minit": "S",
+  "lname": "Snedden",
+  "ssn": "444444403",
+  "bdate": {
+    "$date": "1977-07-31T00:00:00Z"
+  },
+  "address": "987 Windy St, Milwaukee, WI",
+  "gender": "M",
+  "salary": 48000,
+  "superssn": "444444400",
+  "dno": 7
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707af9"
+  },
+  "fname": "Nandita",
+  "minit": "K",
+  "lname": "Ball",
+  "ssn": "555555501",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-22464000000"
+    }
+  },
+  "address": "222 Howard, Sacramento, CA",
+  "gender": "M",
+  "salary": 62000,
+  "superssn": "555555500",
+  "dno": 6
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707afa"
+  },
+  "fname": "Jill",
+  "minit": "J",
+  "lname": "Jarvis",
+  "ssn": "666666601",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-125107200000"
+    }
+  },
+  "address": "6234 Lincoln, Chicago, IL",
+  "gender": "F",
+  "salary": 36000,
+  "superssn": "666666600",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707afb"
+  },
+  "fname": "Kate",
+  "minit": "W",
+  "lname": "King",
+  "ssn": "666666602",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-117158400000"
+    }
+  },
+  "address": "1976 Boone Trace, Chicago, IL",
+  "gender": "F",
+  "salary": 44000,
+  "superssn": "666666600",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707afc"
+  },
+  "fname": "Lyle",
+  "minit": "G",
+  "lname": "Leslie",
+  "ssn": "666666603",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-207187200000"
+    }
+  },
+  "address": "417 Hancock Ave, Chicago, IL",
+  "gender": "M",
+  "salary": 41000,
+  "superssn": "666666601",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707afd"
+  },
+  "fname": "Billie",
+  "minit": "J",
+  "lname": "King",
+  "ssn": "666666604",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-315619200000"
+    }
+  },
+  "address": "556 Washington, Chicago, IL",
+  "gender": "F",
+  "salary": 38000,
+  "superssn": "666666603",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707afe"
+  },
+  "fname": "Jon",
+  "minit": "A",
+  "lname": "Kramer",
+  "ssn": "666666605",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-169171200000"
+    }
+  },
+  "address": "1988 Windy Creek, Seattle, WA",
+  "gender": "M",
+  "salary": 41500,
+  "superssn": "666666603",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707aff"
+  },
+  "fname": "Ray",
+  "minit": "H",
+  "lname": "King",
+  "ssn": "666666606",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-643075200000"
+    }
+  },
+  "address": "213 Delk Road, Seattle, WA",
+  "gender": "M",
+  "salary": 44500,
+  "superssn": "666666604",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707b00"
+  },
+  "fname": "Gerald",
+  "minit": "D",
+  "lname": "Small",
+  "ssn": "666666607",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-240883200000"
+    }
+  },
+  "address": "122 Ball Street, Dallas, TX",
+  "gender": "M",
+  "salary": 29000,
+  "superssn": "666666602",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707b01"
+  },
+  "fname": "Arnold",
+  "minit": "A",
+  "lname": "Head",
+  "ssn": "666666608",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-82771200000"
+    }
+  },
+  "address": "233 Spring St, Dallas, TX",
+  "gender": "M",
+  "salary": 33000,
+  "superssn": "666666602",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707b02"
+  },
+  "fname": "Helga",
+  "minit": "C",
+  "lname": "Pataki",
+  "ssn": "666666609",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-25574400000"
+    }
+  },
+  "address": "101 Holyoke St, Dallas, TX",
+  "gender": "F",
+  "salary": 32000,
+  "superssn": "666666602",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707b03"
+  },
+  "fname": "Naveen",
+  "minit": "B",
+  "lname": "Drew",
+  "ssn": "666666610",
+  "bdate": {
+    "$date": "1970-05-23T00:00:00Z"
+  },
+  "address": "198 Elm St, Philadelphia, PA",
+  "gender": "M",
+  "salary": 34000,
+  "superssn": "666666607",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707b04"
+  },
+  "fname": "Carl",
+  "minit": "E",
+  "lname": "Reedy",
+  "ssn": "666666611",
+  "bdate": {
+    "$date": "1977-06-21T00:00:00Z"
+  },
+  "address": "213 Ball St, Philadelphia, PA",
+  "gender": "M",
+  "salary": 32000,
+  "superssn": "666666610",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707b05"
+  },
+  "fname": "Sammy",
+  "minit": "G",
+  "lname": "Hall",
+  "ssn": "666666612",
+  "bdate": {
+    "$date": "1970-01-11T00:00:00Z"
+  },
+  "address": "433 Main Street, Miami, FL",
+  "gender": "M",
+  "salary": 37000,
+  "superssn": "666666611",
+  "dno": 8
+},{
+  "_id": {
+    "$oid": "63774778a9b55f373f707b06"
+  },
+  "fname": "Red",
+  "minit": "A",
+  "lname": "Bacher",
+  "ssn": "666666613",
+  "bdate": {
+    "$date": "1980-05-21T00:00:00Z"
+  },
+  "address": "196 Elm Street, Miami, FL",
+  "gender": "M",
+  "salary": 33500,
+  "superssn": "666666612",
+  "dno": 8
+}]

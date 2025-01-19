@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "637749c817c55c88f849a354"
+  },
+  "dname": "Research",
+  "dnumber": 5,
+  "mgrssn": "333445555",
+  "date": {
+    "$date": "1978-05-22T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "637749c817c55c88f849a355"
+  },
+  "dname": "Administration",
+  "dnumber": 4,
+  "mgrssn": "987654321",
+  "date": {
+    "$date": "1985-01-01T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "637749c817c55c88f849a356"
+  },
+  "dname": "Headquarters",
+  "dnumber": 1,
+  "mgrssn": "888665555",
+  "date": {
+    "$date": "1971-06-19T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "637749c817c55c88f849a357"
+  },
+  "dname": "Software",
+  "dnumber": 6,
+  "mgrssn": "111111100",
+  "date": {
+    "$date": "1999-05-15T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "637749c817c55c88f849a358"
+  },
+  "dname": "Hardware",
+  "dnumber": 7,
+  "mgrssn": "444444400",
+  "date": {
+    "$date": "1998-05-15T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "637749c817c55c88f849a359"
+  },
+  "dname": "Sales",
+  "dnumber": 8,
+  "mgrssn": "555555500",
+  "date": {
+    "$date": "1997-01-01T00:00:00Z"
+  }
+}]

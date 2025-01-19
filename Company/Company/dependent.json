@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "637749c917c55c88f849a382"
+  },
+  "essn": "333445555",
+  "dependent_name": "Alice",
+  "gender": "F",
+  "bdate": {
+    "$date": "1976-04-05T00:00:00Z"
+  },
+  "relationship": "Daughter"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a383"
+  },
+  "essn": "333445555",
+  "dependent_name": "Theodore",
+  "gender": "M",
+  "bdate": {
+    "$date": "1973-10-25T00:00:00Z"
+  },
+  "relationship": "Son"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a384"
+  },
+  "essn": "333445555",
+  "dependent_name": "Joy",
+  "gender": "F",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-683683200000"
+    }
+  },
+  "relationship": "Spouse"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a385"
+  },
+  "essn": "987654321",
+  "dependent_name": "Abner",
+  "gender": "M",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-1194134400000"
+    }
+  },
+  "relationship": "Spouse"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a386"
+  },
+  "essn": "123456789",
+  "dependent_name": "Michael",
+  "gender": "M",
+  "bdate": {
+    "$date": "1978-01-01T00:00:00Z"
+  },
+  "relationship": "Son"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a387"
+  },
+  "essn": "123456789",
+  "dependent_name": "Alice",
+  "gender": "F",
+  "bdate": {
+    "$date": "1978-12-31T00:00:00Z"
+  },
+  "relationship": "Daughter"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a388"
+  },
+  "essn": "123456789",
+  "dependent_name": "Elizabeth",
+  "gender": "F",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-565315200000"
+    }
+  },
+  "relationship": "Spouse"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a389"
+  },
+  "essn": "444444400",
+  "dependent_name": "Johnny",
+  "gender": "M",
+  "bdate": {
+    "$date": "1997-04-04T00:00:00Z"
+  },
+  "relationship": "Son"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a38a"
+  },
+  "essn": "444444400",
+  "dependent_name": "Tommy",
+  "gender": "M",
+  "bdate": {
+    "$date": "1999-06-07T00:00:00Z"
+  },
+  "relationship": "Son"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a38b"
+  },
+  "essn": "444444401",
+  "dependent_name": "Chris",
+  "gender": "M",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-22204800000"
+    }
+  },
+  "relationship": "Spouse"
+},{
+  "_id": {
+    "$oid": "637749c917c55c88f849a38c"
+  },
+  "essn": "444444402",
+  "dependent_name": "Sam",
+  "gender": "M",
+  "bdate": {
+    "$date": {
+      "$numberLong": "-185587200000"
+    }
+  },
+  "relationship": "Spouse"
+}]
